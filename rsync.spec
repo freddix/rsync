@@ -1,11 +1,11 @@
 Summary:	Program for efficient remote updates of files
 Name:		rsync
-Version:	3.1.0
+Version:	3.1.1
 Release:	1
 License:	GPL
 Group:		Networking/Utilities
 Source0:	http://rsync.samba.org/ftp/rsync/%{name}-%{version}.tar.gz
-# Source0-md5:	3be148772a33224771a8d4d2a028b132
+# Source0-md5:	43bd6676f0b404326eee2d63be3cdcfe
 URL:		http://rsync.samba.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
